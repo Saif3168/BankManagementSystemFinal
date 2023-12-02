@@ -97,6 +97,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::BankManagementSystemFinal.Properties.Resources._360_F_460710131_YkD6NsivdyYsHupNvO3Y8MPEwxTAhORh;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.Log_in);
             this.Controls.Add(this.PasswordBox);

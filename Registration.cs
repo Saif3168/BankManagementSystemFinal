@@ -99,5 +99,10 @@ namespace BankManagementSystemFinal
             form.Show();
             this.Hide();
         }
+
+        private void Registration_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

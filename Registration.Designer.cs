@@ -229,6 +229,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::BankManagementSystemFinal.Properties.Resources.hqdefault;
             this.ClientSize = new System.Drawing.Size(879, 482);
             this.Controls.Add(this.Login);
             this.Controls.Add(this.Submit);
@@ -251,6 +252,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Registration";
             this.Text = "Registration";
+            this.Load += new System.EventHandler(this.Registration_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

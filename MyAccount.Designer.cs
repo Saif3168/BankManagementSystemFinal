@@ -135,6 +135,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::BankManagementSystemFinal.Properties.Resources.money_and_banking_web_page_design_template_credit_vector_41743172;
             this.ClientSize = new System.Drawing.Size(800, 496);
             this.Controls.Add(this.Exit);
             this.Controls.Add(this.dataGridView1);
